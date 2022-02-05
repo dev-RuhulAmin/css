@@ -1,0 +1,17 @@
+
+        p{
+            /* style-name:style-value */
+            color:rgb(36, 3, 37);
+            background-color: rgb(30, 182, 42);
+            height: 50px;
+            width: 500px;
+            font-style: italic;
+            font-size: 20px;
+
+        }
+
+        h1{
+            color: rgb(13, 32, 202);
+            /* rgb and rgba and hsl and hsl 
+            hsl means hexcode  */
+        }
